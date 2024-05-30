@@ -1,7 +1,8 @@
-# desafio-evolucao-de-aprendizagem-modulo-02-dbe-t08-dds-t17-
+# Desafio evolucao de aprendizagem - Modulo 02 (dbe-t08-dds-t17)
 
 
 **CONTEÚDOS A SEREM TRABLHADOS NESSE MÓDULO**
+---
 
 ✅ Funções
 
@@ -23,12 +24,17 @@
 
 ✅ Métodos de arrays III
 
----
+
 **O QUE EU JÁ SEI SOBRE OS ASSUNTOS QUE SERÃO TRABALHADOS NESSE MÓDULO**
+---
 
-✅ **Funções:** é um bloco de código que pode ser reutilizado. Sempre que tiver um nome seguido de (), é uma forma de escrever uma função. Sei também que elas são utilizadas em nossos Desafios, mas ainda não tenho muito contexto do porquê.
+✅ **Funções:** 
 
-✅ **Tipos de dados II: s**ei que existem diferentes tipos de dados que podemos ser manipulados e armazenados. Aprendi também que no typescript você especifica a tipagem. Alguns exemplos:
+É um bloco de código que pode ser reutilizado. Sempre que tiver um nome seguido de (), é uma forma de escrever uma função. Sei também que elas são utilizadas em nossos Desafios, mas ainda não tenho muito contexto do porquê.
+
+✅ **Tipos de dados II:**
+
+Sei que existem diferentes tipos de dados que podemos ser manipulados e armazenados. Aprendi também que no typescript você especifica a tipagem. Alguns exemplos:
 
 - **String**: para representar texto
 - **Number**: para números
@@ -36,15 +42,25 @@
 - **Array**: para uma coleção de elementos do mesmo tipo
 - **Any**: para indicar que uma variável pode ser de qualquer tipo
 
-✅ **Carreira (gestão de tempo):** enquanto profissional você precisa saber gerir bem o seu tempo e suas atividades.
+✅ **Carreira (gestão de tempo):**
 
-✅ **Tipos utilitários: a**qui traria os mesmos pontos que coloquei nos “tipos de dados II”
+Enquanto profissional você precisa saber gerir bem o seu tempo e suas atividades.
 
-✅ **Método de String:** aprendi que string é um tipo de dado que representar texto e é declarada com aspas simples ou dupla. Elas pode ter vários tipos de caracteres como simbolos, números e letras.
+✅ **Tipos utilitários:**
 
-✅ **Carreira (currículo e carta de apresentação): e**ntendo a importância de um bom currículo, que valorize seus pontos fortes dentro da vaga que você quer aplicar. 
+Aqui trago os mesmos pontos que coloquei nos “tipos de dados II”
 
-✅ **Métodos de Arrays:** sei que os arrays são como listas, onde cada elemento pode ser acessado através de um índice numérico. Além disso, também aprendi:
+✅ **Método de String:** 
+
+Já aprendi que string é um tipo de dado que representar texto e é declarada com aspas simples ou dupla. Elas pode ter vários tipos de caracteres como simbolos, números e letras.
+
+✅ **Carreira (currículo e carta de apresentação):**
+
+Entendi a importância de um bom currículo, que valorize seus pontos fortes dentro da vaga que você quer aplicar. 
+
+✅ **Métodos de Arrays:**
+
+Sei que os arrays são como listas, onde cada elemento pode ser acessado através de um índice numérico. Além disso, também aprendi:
 
 - Que cada elemento em um array é acessado por um índice, que geralmente começa em 0 para o 1º elemento
 - Como alterar ou adicionar um item de um array
@@ -53,14 +69,21 @@
 
 Nos arrays, aprendi também a trabalhar com loops, que são estruturas fundamentais que permitem automatizar tarefas repetitivas, como percorrer listas e executar ações para cada elemento. Serão apresentados diferentes tipos de loops, como "for", "while", "do...while", "for...in", "for...of”
 
-✅ **Métodos de Arrays II:** o mesmo que escrevi no tópico “Métodos de Arrays”, que foi o que aprendi no módulo1.
+✅ **Métodos de Arrays II:**
 
-✅ **Carreira: linkedin primeiros passos:** entendi a importância do uso do linkedin para minha vida profissional, técnicas e dicas de como usá-la da melhor forma.
+O mesmo que escrevi no tópico “Métodos de Arrays”, que foi o que aprendi no módulo1.
 
-✅ **Métodos de arrays III:** o mesmo que escrevi no tópico “Métodos de Arrays”, que foi o que aprendi no módulo 1.
+✅ **Carreira: linkedin primeiros passos:**
 
----
+Entendi a importância do uso do linkedin para minha vida profissional, técnicas e dicas de como usá-la da melhor forma.
+
+✅ **Métodos de arrays III:**
+
+O mesmo que escrevi no tópico “Métodos de Arrays”, que foi o que aprendi no módulo 1.
+
+
 **O QUE EU QUERO APRENDER SOBRE OS ASSUNTOS ABORDADOS NESSE MÓDULO**
+---
 
 ✅ **Funções**: quero aprofundar melhor no que são funções e como elas funcionam no código.
 
@@ -82,8 +105,9 @@ Nos arrays, aprendi também a trabalhar com loops, que são estruturas fundament
 
 ✅ **Métodos de arrays III:** assim como nos métodos de array I e II, quero aprender os métodos de arrays III para facilitar a escrita dos códigos e criá-los de forma mais simples e madura.
 
----
+
 **O QUE APRENDI SOBRE OS ASSUNTOS QUE FORAM ABORDADOS NESSE MÓDULO?**
+---
 
 ✅ **Funções:**
 
