@@ -1,4 +1,5 @@
-# Desafio evolucao de aprendizagem - Modulo 02 (dbe-t08-dds-t17)
+# Desafio Evolução de Aprendizagem - Modulo 02 
+(dbe-t08-dds-t17)
 
 
 **CONTEÚDOS A SEREM TRABLHADOS NESSE MÓDULO**
@@ -111,7 +112,8 @@ O mesmo que escrevi no tópico “Métodos de Arrays”, que foi o que aprendi n
 
 ✅ **Funções:**
 
-- Funções são subprogramas que agrupam um conjunto de instruções para tarefas específicas. As vantagens das funções são: reutilização de código e evitar repetição de instruções —> produtividade, dinamismo, código mais organizado.
+Funções são subprogramas que agrupam um conjunto de instruções para tarefas específicas. As vantagens das funções são: reutilização de código e evitar repetição de instruções —> produtividade, dinamismo, código mais organizado.
+
 - Toda função tem um nome e normalmente declaramos como “function”.
 - A estrutura da função é: declaração da função + nome, parâmetros da função (que podem existir ou não) e escopo da função
 - O parâmetro tem o mesmo papel de uma variável dentro da função. No entanto, ele só funciona dentro da função.
@@ -127,14 +129,15 @@ O mesmo que escrevi no tópico “Métodos de Arrays”, que foi o que aprendi n
 
 ✅ **Tipos de dados II**
 
-- A prendi a criar types com valores específicos e não só number, string, etc.
-- Aprendi que existe um operador que pode unir os tipos
-- Quando criamos um Array, normalmente definimos um type único para aquele array, mas com as Tuplas, podemos associar vários tipos no array.
-- O tamanho que você define na tupla, é o tamanho que o array vai ter
+Aprofundei os conhecimentos de tipagens no typescript, conheci novos tipos de formas de manipulá-los. Alguns outros pontos que também aprendi:
+- Aprendi a criar types com valores específicos e não só number, string, etc.
+
+- **União de tipos:** Aprendi que existe um operador que pode unir os tipos
+- **Tuplas**: quando criamos um Array, normalmente definimos um type único para aquele array, mas com as Tuplas, podemos associar vários tipos no array.O tamanho que você define na tupla, é o tamanho que o array vai ter.
 - Aprendi a fazer mesclagem de types usando &
-- Type Narrowing é uma técnica que usamos pra deixar um type usado o mais assertivo possível. Pode ser usado pra entender o tipo de dados que são usados quando chamamos uma função.
-- Typeof identifica o tipo de parâmetro que a variável está recebendo
-- Tipo assertion é usado por “as” e é utilizado basicamente quando você quer “forçar” um tipo.
+- **Type Narrowing:** é uma técnica que usamos pra deixar um type usado o mais assertivo possível. Pode ser usado pra entender o tipo de dados que são usados quando chamamos uma função.
+- **Typeof:** identifica o tipo de parâmetro que a variável está recebendo
+- **Typo assertion:** é usado por “as” e é utilizado basicamente quando você quer “forçar” um tipo.
 - Para verificar se existe uma propriedade em um objeto, você utiliza “in”
 
 ✅ **Carreira (gestão de tempo):**
@@ -176,7 +179,7 @@ Aprendi sobre os métodos de string e através deles é possível, por exemplo, 
 
 ✅ **Carreira (currículo e carta de apresentação):**
 
-Aprendi a diferença entre o currículo e linkedin, assim como estruturar da melhor forma o currpiculo. Aprendi entender a visão de um recrutador na hora do recutamento e nas etapas mais comuns do processo.
+Aprendi a diferença entre o currículo e linkedin, assim como estruturar da melhor forma o currículo. Aprendi entender a visão de um recrutador na hora do recutamento e nas etapas mais comuns do processo.
 
 ✅ **Métodos de Arrays:**
 
@@ -215,7 +218,7 @@ Aprendi mais sobre o linkedin e como utilizar a rede social profissional ao meu 
 - Ordenação padrão com o método sort: ordena os elementos de um array de acordo com o código unicode
 - Aprendi a ordenar um array de números na ordem crescente, na ordem decrescente e também aprendi a ordenar um array de forma crescente e decrescente por subtração
 - Entendi como conseguir ordenar string tanto crescente como decrescente de uma forma correta.
-- Reduce: esse método basicamente recebe uma função callback e vai executar essa função pra cada elemento do array, só que o retorno do reduce vai ser um único valor, que pode ser um número, um array etc. É como se ele reduzisse todos os elementos para um único retorno. A função passada como argumento para este método tem 4 parâmetros:
+- **Reduce**: esse método basicamente recebe uma função callback e vai executar essa função pra cada elemento do array, só que o retorno do reduce vai ser um único valor, que pode ser um número, um array etc. É como se ele reduzisse todos os elementos para um único retorno. A função passada como argumento para este método tem 4 parâmetros:
     - **acumulador:** valor inicial ou valor do retorno anterior
     - **valorAtual:** valor do elemento atual
     - **index:** o índice atual
